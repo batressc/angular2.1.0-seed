@@ -1,0 +1,17 @@
+{
+  "name": "angular2.1.0-seed",
+  "description": "Seed para angular 2.1.0",
+  "main": "",
+  "authors": [
+    "Luis Gustavo Fernández Batres <elclon_fernanbrans@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
